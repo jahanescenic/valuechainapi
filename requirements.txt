@@ -1,0 +1,7 @@
+autopep8==1.5.4
+jsonpath==0.82
+pycodestyle==2.6.0
+pytest==7.0.1
+pytest-html==3.1.1
+pytest-metadata==1.11.0
+requests==2.25.1
